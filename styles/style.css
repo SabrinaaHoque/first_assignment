@@ -4,7 +4,8 @@
 }
 body{
   margin: auto;
-  padding:30px;
+  padding:50px;
+  background-color:#F1F1F3;
 }
 ..fira-sans-regular {
   font-family: "Fira Sans", serif;
@@ -53,4 +54,75 @@ body{
     border-radius: 8px;
     color:#FFFFFF;
   }
+  .vision-of-future{
+    margin-top: 40px;
+  }
+  .containers{
+    display:flex;
+    justify-content: space-between;
   
+
+  }
+  .container-one{
+    height: 300px;
+    width: 400px;
+    padding:20px;
+    border-radius: 8px;
+    background-color:#cad8f0;
+
+
+  }
+  .container-two{
+    height: 300px;
+    width: 400px;
+    padding:20px;
+    border-radius: 8px;
+    background-color:#C6E4D6;
+
+
+  }
+  .container-three{
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color:#F7EBCF;
+
+
+  }
+  .btn-one{
+    background-color:#5490F5 ;
+    border-radius:5px ;
+    color:#FFFFFF;
+    padding: 10px;
+    border: none;;
+  }
+  .btn-two{
+    background-color:#006A50 ;
+    border-radius:5px ;
+    color:#FFFFFF;
+    padding: 10px;
+    border: none;;
+  }
+  .btn-three{
+    background-color:#FFC239 ;
+    border-radius:5px ;
+    color:#FFFFFF;
+    padding: 10px;
+    border: none;;
+  }
+  .quote{
+    margin-top: 40px;
+    background-image: url('../images/quote-bg.png');
+    background-size: contain;
+    background-repeat: ;
+  }
+.news{
+  display: flex;
+  justify-content:space-evenly;
+  
+}
+.news-two{
+  display: flex;
+
+}
