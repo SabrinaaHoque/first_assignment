@@ -283,3 +283,6 @@ body{
 .img-ft{
   text-align: center;
 }
+.btn-primary:hover{
+  background-color: #534545;
+}
