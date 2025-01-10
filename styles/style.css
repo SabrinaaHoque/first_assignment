@@ -126,3 +126,46 @@ body{
   display: flex;
 
 }
+.boxes{
+  display:flex;
+  justify-content: space-evenly;
+}
+.box-one{
+  border-radius: 6px;
+  padding:30px ;
+  background-color: #dedeec;
+  font-size:2rem;
+}
+.box-two{
+  border-radius: 6px;
+  padding:30px ;
+  background-color:#f0e1bf;
+  font-size:2rem ;
+}
+.box-three{
+  border-radius: 6px;
+  padding:30px ;
+  background-color:#f0d595;
+  font-size:2rem ;
+}
+.box-four{
+  border-radius: 6px;
+  padding:30px ;
+  background-color: #d2ebe8;
+  font-size:1rem ;
+}
+.news-ltr-bar{
+  display: flex;
+  height:50px;
+  
+}
+.put-me-on{
+  /* border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px; */
+}
+.perfect{
+  /* border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-left: none; */
+
+}
